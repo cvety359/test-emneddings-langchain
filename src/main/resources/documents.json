@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "text": "JIRA-101: Data storage strategies: \n                         Description: Investigate and test storing strategies:\n                        \n                        * Embedding models\n                        * Store data - only links or store data text",
+    "metadata": {
+      "url": "https://example.com/document1",
+      "source": "Jira",
+      "author": "Author 1",
+      "publishedDate": "2024-01-01"
+    }
+  },
+  {
+    "id": 2,
+    "text": "JIRA-102: Git integration for log analysis agent \n                        Description: Investigate and implement git integration for the needs of the log analysis agent. Currently identified needs are:\n                        \n                        * Fetch branch info (owner, commits, descriptions of those commits)\n                        * Fetch logs for a GH workflow execution (job_id)",
+    "metadata": {
+      "url": "https://example.com/document2",
+      "source": "Jira",
+      "author": "Author 2",
+      "publishedDate": "2024-01-02"
+    }
+  },
+  {
+    "id": 3,
+    "text": "JIRA-103: Authentication service overview and token lifecycle",
+    "metadata": {
+      "url": "https://example.com/document3",
+      "source": "Jira",
+      "author": "Author 3",
+      "publishedDate": "2024-01-03"
+    }
+  },
+  {
+    "id": 4,
+    "text": "JIRA-104: User cannot reset password via email",
+    "metadata": {
+      "url": "https://example.com/document4",
+      "source": "Jira",
+      "author": "Author 4",
+      "publishedDate": "2024-01-04"
+    }
+  },
+  {
+    "id": 5,
+    "text": "JIRA-105: Update UI color palette",
+    "metadata": {
+      "url": "https://example.com/document5",
+      "source": "Jira",
+      "author": "Author 5",
+      "publishedDate": "2024-01-05"
+    }
+  },
+  {
+    "id": 6,
+    "text": "JIRA-106: Quarterly billing reconciliation process",
+    "metadata": {
+      "url": "https://example.com/document6",
+      "source": "Jira",
+      "author": "Author 6",
+      "publishedDate": "2024-01-06"
+    }
+  },
+  {
+    "id": 7,
+    "text": "JIRA-107: Fix session timeout calculation on iOS devices",
+    "metadata": {
+      "url": "https://example.com/document7",
+      "source": "Jira",
+      "author": "Author 7",
+      "publishedDate": "2024-01-07"
+    }
+  },
+  {
+    "id": 8,
+    "text": "Change data storage strategy to include text snippets Description: Updated the data storage strategy to store text snippets alongside links. This change aims to improve retrieval efficiency and context relevance when accessing stored data. The new approach leverages embedding models to enhance search capabilities.",
+    "metadata": {
+      "url": "https://example.com/document8",
+      "source": "GitHub",
+      "author": "Author 8",
+      "publishedDate": "2024-01-08"
+    }
+  },
+  {
+    "id": 9,
+    "text": "Implement git integration for log analysis agent Description: Added git integration to the log analysis agent. The agent can now fetch branch information including owner details, commit history, and descriptions. Additionally, it can retrieve logs for specific GitHub workflow executions using job ids, enhancing its diagnostic capabilities.",
+    "metadata": {
+      "url": "https://example.com/document9",
+      "source": "GitHub",
+      "author": "Author 9",
+      "publishedDate": "2024-01-09"
+    }
+  },
+  {
+    "id": 10,
+    "text": "Fix session timeout calculation on iOS devices Description: Resolved an issue with session timeout calculations on iOS devices. The fix ensures that user sessions now expire correctly after the designated period, improving security and user experience.",
+    "metadata": {
+      "url": "https://example.com/document10",
+      "source": "GitHub",
+      "author": "Author 10",
+      "publishedDate": "2024-01-10"
+    }
+  },
+  {
+    "id": 11,
+    "text": "Improve authentication service token lifecycle management Description: Enhanced the token lifecycle management in the authentication service. Implemented new strategies for token issuance, renewal, and revocation to bolster security and streamline user access.",
+    "metadata": {
+      "url": "https://example.com/document11",
+      "source": "GitHub",
+      "author": "Author 11",
+      "publishedDate": "2024-01-11"
+    }
+  },
+  {
+    "id": 12,
+    "text": "Update UI color palette Description: Updated the user interface color palette to improve visual appeal and accessibility. The new palette includes a range of colors that enhance readability and provide a more modern look.",
+    "metadata": {
+      "url": "https://example.com/document12",
+      "source": "GitHub",
+      "author": "Author 12",
+      "publishedDate": "2024-01-12"
+    }
+  },
+  {
+    "id": 13,
+    "text": "Confluence-201: Data Storage Strategies Overview: This page provides an overview of various data storage strategies, including the use of embedding models and the pros and cons of storing data as links versus text snippets. It aims to guide decision-making for optimal data management.",
+    "metadata": {
+      "url": "https://example.com/document13",
+      "source": "Confluence",
+      "author": "Author 13",
+      "publishedDate": "2024-01-13"
+    }
+  },
+  {
+    "id": 14,
+    "text": "Confluence-202: Git Integration for Log Analysis Agent: This document outlines the integration of git functionalities into the log analysis agent. It details how to fetch branch information, commit histories, and logs from GitHub workflow executions to enhance the agent's capabilities.",
+    "metadata": {
+      "url": "https://example.com/document14",
+      "source": "Confluence",
+      "author": "Author 14",
+      "publishedDate": "2024-01-14"
+    }
+  },
+  {
+    "id": 15,
+    "text": "Confluence-203: Authentication Service Token Lifecycle: This page describes the token lifecycle management for the authentication service, including strategies for token issuance, renewal, and revocation. It provides best practices for maintaining secure and efficient authentication processes.",
+    "metadata": {
+      "url": "https://example.com/document15",
+      "source": "Confluence",
+      "author": "Author 15",
+      "publishedDate": "2024-01-15"
+    }
+  }
+]

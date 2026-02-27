@@ -1,0 +1,14 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: test-emneddings-langchain
+
+langchain4j:
+  open-ai:
+    embeddings-model:
+      baseUrl: "${BASE_URL}"
+      apiKey: "${API_KEY}"
+      openAiApiKey: "${OPENAI_API_KEY}"
+      embeddingModelName: "text-embedding-3-small-1"
