@@ -1,3 +1,5 @@
 Test Embedding with Langchain
 
-embeding wirh langchain
+embedding with langchain
+
+using small embedding model from OPENAI
